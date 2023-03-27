@@ -1,0 +1,129 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+.btn {
+  background: #34d9b0;
+  background-image: -webkit-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -moz-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -ms-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -o-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: linear-gradient(to bottom, #34d9b0, #3d9476);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 100px 10px 100px;
+  text-decoration: none;
+  
+
+}
+
+
+.btn:hover {
+  background: #3cfcd9;
+  background-image: -webkit-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -moz-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -ms-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -o-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: linear-gradient(to bottom, #3cfcd9, #7edec0);
+  text-decoration: none;
+}
+.btnreload {
+  background: #34d9b0;
+  background-image: -webkit-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -moz-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -ms-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: -o-linear-gradient(top, #34d9b0, #3d9476);
+  background-image: linear-gradient(to bottom, #34d9b0, #3d9476);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 100px 10px 100px;
+  text-decoration: none;
+  
+
+}
+.btnreload:hover {
+  background: #3cfcd9;
+  background-image: -webkit-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -moz-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -ms-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: -o-linear-gradient(top, #3cfcd9, #7edec0);
+  background-image: linear-gradient(to bottom, #3cfcd9, #7edec0);
+  text-decoration: none;
+}
+.button
+{
+  text-align: center;
+  position: relative;
+  padding: 80px 100px 10px 100px;
+  margin: auto;
+  
+}
+
+.bottom-container{
+  padding-top: 100px;
+  margin: auto;
+}
+.footer-link{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  padding-left: 50px;
+  
+}
+
+.footer-link1{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+  
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
